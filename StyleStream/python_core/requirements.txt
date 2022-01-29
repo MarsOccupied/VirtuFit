@@ -1,0 +1,6 @@
+torch
+torchvision
+opencv-python
+numpy
+PyQt5 # For basic OpenCV display if needed, but primarily for Python.NET interop
+
