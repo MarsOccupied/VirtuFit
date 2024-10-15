@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/seppimirzaei/Downloads/VirtuFit-master/StyleStream/csharp_frontend/StyleStream.Desktop/StyleStream.Desktop.csproj": {}
+  },
+  "projects": {
+    "/Users/seppimirzaei/Downloads/VirtuFit-master/StyleStream/csharp_frontend/StyleStream.Desktop/StyleStream.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/seppimirzaei/Downloads/VirtuFit-master/StyleStream/csharp_frontend/StyleStream.Desktop/StyleStream.Desktop.csproj",
+        "projectName": "StyleStream.Desktop",
+        "projectPath": "/Users/seppimirzaei/Downloads/VirtuFit-master/StyleStream/csharp_frontend/StyleStream.Desktop/StyleStream.Desktop.csproj",
+        "packagesPath": "/Users/seppimirzaei/.nuget/packages/",
+        "outputPath": "/Users/seppimirzaei/Downloads/VirtuFit-master/StyleStream/csharp_frontend/StyleStream.Desktop/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/seppimirzaei/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.3.10, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.3.10, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.3.10, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.3.10, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.3.10, )"
+            },
+            "OpenCvSharp4.Extensions": {
+              "target": "Package",
+              "version": "[4.11.0.20250507, )"
+            },
+            "OpenCvSharp4.runtime.win": {
+              "target": "Package",
+              "version": "[4.11.0.20250507, )"
+            },
+            "Python.Runtime": {
+              "target": "Package",
+              "version": "[2.7.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/seppimirzaei/.dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
